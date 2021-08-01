@@ -20,8 +20,8 @@ body.dark {
   --color-bg: #2e0385;
   --color-bgDim: #270371;
   --color-fg: #d1d1d1;
-  --color-accent: cyan;
-  --color-border: #343456;
+  --color-accent: rgb(161, 255, 230);
+  --color-border: #65659c;
 }
 
 h1,

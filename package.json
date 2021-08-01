@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@supabase/supabase-js": "^1.21.0",
     "autoprefixer": "^10.2.6",
     "dark-mode-code": "^1.0.0",
     "next": "^11.0.0",
@@ -21,6 +22,7 @@
     "postcss": "^8.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-supabase": "^0.2.0",
     "tailwindcss": "^2.2.0"
   },
   "husky": {

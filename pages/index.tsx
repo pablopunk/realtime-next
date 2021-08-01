@@ -5,19 +5,25 @@ type Props = {}
 
 const Index: FunctionComponent<Props> = () => (
   <>
-    <p>
+    <p className="flex">
       <a
         href="https://github.com/pablopunk/realtime-next"
-        className="p-2 mx-2 border rounded-md text-accent"
+        className="flex items-center justify-center p-2 mx-2 transition-all border rounded-md focus:outline-none text-accent hover:scale-110 hover:border-accent"
       >
         GitHub
       </a>
       <a
         href="https://pablopunk.com/blog"
-        className="p-2 mx-2 border rounded-md text-accent"
+        className="flex items-center justify-center p-2 mx-2 transition-all border rounded-md focus:outline-none text-accent hover:scale-110 hover:border-accent"
       >
         Read about it
       </a>
+      <button
+        className="flex items-center justify-center p-2 mx-2 transition-all border rounded-md focus:outline-none text-accent hover:scale-110 hover:border-accent"
+        onClick={() => window['__toggleDarkMode']()}
+      >
+        Change theme
+      </button>
     </p>
     <div className="my-6 text-center">
       <h1 className="text-3xl">Real-time UI</h1>
