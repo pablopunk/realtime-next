@@ -1,5 +1,5 @@
 module.exports = {
-  SITE_NAME: 'NEXT STARTER',
-  SITE_URL: 'https://next-starter.pablopunk.com',
-  SITE_DESCRIPTION: 'An opinionated template for any NextJS project',
+  SITE_NAME: 'Realtime',
+  SITE_URL: 'https://realtime.pablopunk.com',
+  SITE_DESCRIPTION: 'How to create a real-time UI with NextJS and Supabase',
 }

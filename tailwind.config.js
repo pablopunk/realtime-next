@@ -11,7 +11,6 @@ module.exports = {
         bg: 'var(--color-bg)',
         bgDim: 'var(--color-bgDim)',
         accent: 'var(--color-accent)',
-        accent2: 'var(--color-accent2)',
         transparent: 'transparent',
         ...colors,
       },

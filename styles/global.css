@@ -1,9 +1,8 @@
 body {
   --color-bg: white;
-  --color-bgDim: rgba(0, 0, 0, 0.07);
+  --color-bgDim: rgb(240, 239, 240);
   --color-fg: #454545;
-  --color-accent: #0284c7;
-  --color-accent2: #14b8a6;
+  --color-accent: #0aa4a1;
   --color-border: lightgray;
 
   --header-height: 60px;
@@ -18,11 +17,10 @@ body {
 }
 
 body.dark {
-  --color-bg: black;
-  --color-bgDim: #100624;
+  --color-bg: #2e0385;
+  --color-bgDim: #270371;
   --color-fg: #d1d1d1;
   --color-accent: cyan;
-  --color-accent2: lightpink;
   --color-border: #343456;
 }
 
