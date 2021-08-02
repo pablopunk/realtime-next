@@ -13,7 +13,7 @@ const Index: FunctionComponent<Props> = () => (
         GitHub
       </a>
       <a
-        href="https://pablopunk.com/blog"
+        href="https://pablopunk.com/posts/how-to-create-a-real-time-ui-with-nextjs-and-supabase "
         className="flex items-center justify-center p-2 mx-2 transition-all border rounded-md focus:outline-none text-accent hover:scale-110 hover:border-accent"
       >
         Read about it
