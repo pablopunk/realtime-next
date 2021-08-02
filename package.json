@@ -15,14 +15,18 @@
   "license": "ISC",
   "dependencies": {
     "@supabase/supabase-js": "^1.21.0",
+    "animated-number-react": "^0.1.1",
     "autoprefixer": "^10.2.6",
+    "classnames": "^2.3.1",
     "dark-mode-code": "^1.0.0",
     "next": "^11.0.0",
     "next-seo": "^4.25.1",
     "postcss": "^8.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-spring": "^9.2.4",
     "react-supabase": "^0.2.0",
+    "react-use": "^17.2.4",
     "tailwindcss": "^2.2.0"
   },
   "husky": {

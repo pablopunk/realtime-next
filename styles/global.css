@@ -3,7 +3,7 @@ body {
   --color-bgDim: rgb(240, 239, 240);
   --color-fg: #454545;
   --color-accent: #0aa4a1;
-  --color-border: lightgray;
+  --color-border: rgb(233, 233, 233);
 
   --header-height: 60px;
   --footer-height: 60px;
@@ -21,7 +21,7 @@ body.dark {
   --color-bgDim: #270371;
   --color-fg: #d1d1d1;
   --color-accent: rgb(161, 255, 230);
-  --color-border: #65659c;
+  --color-border: #220165;
 }
 
 h1,
