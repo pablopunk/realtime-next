@@ -2,4 +2,4 @@
 
 > [realtime.pablopunk.com](https://realtime.pablopunk.com)
 
-![screencast](https://raw.githubusercontent.com/pablopunk/realtime-next/main/res/screencast.gif)
+![screencast](https://github.com/pablopunk/realtime-next/raw/main/res/screencast.gif)
