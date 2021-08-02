@@ -1,5 +1,5 @@
 import { useClicks, useInsertClicks } from 'db/clicks'
-import { FunctionComponent, useEffect } from 'react'
+import { FunctionComponent } from 'react'
 import { usePrevious } from 'react-use'
 import { animated, useSpring } from 'react-spring'
 
