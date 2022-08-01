@@ -5,8 +5,8 @@ const TABLE_NAME = 'realtime_clicks'
 export function useClicks() {
   const [{ data, error }] = useRealtime(TABLE_NAME, {
     select: {
-      columns: 'id,type'
-    }
+      columns: 'id,type',
+    },
   })
 
   if (error) {
